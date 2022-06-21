@@ -6,7 +6,7 @@ React JS Netflix Clone
 
 To run the app do the following :
 
--npm install
--npm start
+1. npm install
+2. npm start
 
 The movies seend in the app are not hardcoded , they are from a third party api .
