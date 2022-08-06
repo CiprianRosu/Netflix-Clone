@@ -9,4 +9,4 @@ To run the app do the following :
 1. npm install
 2. npm start
 
-The movies seend in the app are not hardcoded , they are from a third party api .
+The movies seen in the app are not hardcoded , they are from a third party api .
